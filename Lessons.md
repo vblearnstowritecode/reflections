@@ -1,4 +1,6 @@
-# Taming HTML→PDF for a Resume on Windows: what I tried, what I learned, and what finally worked!
+# Lessons in Simple But Useful Tech
+
+## Episode 1: Taming HTML→PDF for a Resume on Windows - what I tried, what I learned, and what finally worked!
 
 Before I begin: You should know that I am a recovering product manager, a born-again developer, and this post is an attempt to chronicle my journey. You should also know, since it is funny, this resume was for my wife. "30 mins max" - was what I told her. And 3.5 hours later, there I was dropping her an email saying: "I made an art out of this!".
 
